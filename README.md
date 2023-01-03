@@ -19,7 +19,7 @@ The following script should do everything for you:
 ```
 mkdir /data/pylontech_workaround
 cd /data/pylontech_workaround
-wget https://github.com/thomasraabo/pylontech_workaround/install.sh
+wget https://github.com/thomasraabo/pylontech_workaround/blob/main/install.sh
 chmod a+x /data/pylontech_workaround/install.sh
 /data/pylontech_workaround/install.sh
 ```
