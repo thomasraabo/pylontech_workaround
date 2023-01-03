@@ -10,7 +10,7 @@ This script will change line 78:  0xB009 to 0xAAAA in file
 /opt/victronenergy/dbus-systemcalc-py/delegates/dvcc.py
 
 
-This will make dvcc.py not apply workaround quirks because it wont detect pylontech and apply 15s - 52.4v limit
+This will make dvcc.py not apply workaround quirks because it cant detect pylontech and apply 15s - 52.4v limit
 
 
 ## Install & Configuration
