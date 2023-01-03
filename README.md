@@ -12,7 +12,7 @@ This script will change line 78:  0xB009 to 0xAAAA in file
 
 ## Install & Configuration
 ### Get the code
-Just grap a copy of the main branche and copy them to `/data/dbus-shelly-3em-smartmeter`.
+Just grap a copy of the main branche and copy them to `/data/pylontech_workaround`.
 After that call the install.sh script.
 
 The following script should do everything for you:
