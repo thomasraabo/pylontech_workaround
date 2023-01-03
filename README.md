@@ -24,4 +24,4 @@ chmod a+x /data/pylontech_workaround/install.sh
 /data/pylontech_workaround/install.sh
 ```
 
-
+Then reboot VenusOS and this should also work after reboot
